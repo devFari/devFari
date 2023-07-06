@@ -4,12 +4,12 @@ I'm Matheus but everyone calls me Fari, I'm 22 years old and I'm a science enthu
 
 -Student of Systems Analysis and Development
 
--Reserve officer of the Brazilian Army
+-Reserve Officer of the Brazilian Army
 
 
 # Expertise
 
-my focus is Data Science and Project Management and I'm trying to follow a path that leads me to that goal. 
+My focus is Data Science and Project Management, I'm trying to follow a path that leads me to that goal.
 
 I already had experience with some languages like Java, JavaScript, HTML among others but I'm trying to specialize in Python, SQL and JSON languages and in Microsoft Power BI and Git Hub tools
 
