@@ -1,6 +1,6 @@
 # Bio
 
-I'm Matheus but everyone calls me Fari, I'm 22 years old and I'm a science enthusiast and technology lover. am:
+I'm Matheus but everyone calls me Fari, I'm 24 years old and I'm a science enthusiast and technology lover. am:
 
 -Student of Systems Analysis and Development
 
