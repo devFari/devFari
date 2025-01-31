@@ -52,8 +52,8 @@ OPERATING SYSTEM:
 
 
 # GitHub Stats
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
 
 
 
