@@ -52,7 +52,7 @@ PLATAFORMAS DE ESTUDO:
 
 # GitHub Stats
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="380px" />
-![Top Langs](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
