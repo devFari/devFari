@@ -32,15 +32,14 @@ LANGUAGE, FRAMEWORKS, PLATAFORMS AND LIBRARIES:
 
 IDEs:
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-MUSIC PLAYER:
-
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 OPERATING SYSTEM:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+PLATAFORMAS DE ESTUDO:
+	![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
  SOCIALS:
  
@@ -52,8 +51,8 @@ OPERATING SYSTEM:
 
 
 # GitHub Stats
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="380px" />
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
