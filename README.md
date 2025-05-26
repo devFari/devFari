@@ -1,72 +1,74 @@
-# Bio
+# Olá, eu sou o Matheus (Fari)! 👋  
+**Estudante de Análise e Desenvolvimento de Sistemas | Oficial da Reserva do Exército | Entusiasta de Data Science**
 
-I'm Matheus but everyone calls me Fari, I'm 24 years old and I'm a science enthusiast and technology lover. am:
+---
 
--Student of Systems Analysis and Development
+## 👨💻 Sobre Mim  
+Profissional de tecnologia com experiência multidisciplinar em suporte técnico, administração e liderança. Busco unir **inovação** e **estratégia** para criar soluções eficazes, sempre com foco em resultados e crescimento sustentável. Minha jornada combina disciplina militar com paixão por dados e código!
 
--Reserve Officer of the Brazilian Army
+---
 
+## 🚀 Expertise  
+- **Foco Principal:** Data Science & Gerenciamento de Projetos  
+- **Especialização em Progresso:** Python | SQL | JSON | Power BI | GitHub  
+- **Experiência Anterior:** Java | JavaScript | HTML  
 
-# Expertise
+---
 
-My focus is Data Science and Project Management, I'm trying to follow a path that leads me to that goal.
+## 🛠️ Habilidades Técnicas  
+### Linguagens & Ferramentas  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 
-I already had experience with some languages like Java, JavaScript, HTML among others but I'm trying to specialize in Python, SQL and JSON languages and in Microsoft Power BI and Git Hub tools
+### IA & Ferramentas Modernas  
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)  
 
-# IA
+### Soft Skills  
+✅ Comunicação Efetiva | ✅ Liderança | ✅ Habilidades Analíticas  
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+---
 
-# Stacks
-DATA BASE:
+## 📚 Cursos Recentes  
+- **Python** (Fundação Bradesco)  
+- **Data Science & NumPy** (Alura)  
+- **Modelagem de Dados com SQL** (DIO + Alura)  
+- **Git & GitHub** (DIO + Alura)  
+- **POO & Lógica de Programação** (Alura)  
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-DESIGNER:
+## 💻 Tech Stack  
+### Bancos de Dados  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### Design  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
-LANGUAGE, FRAMEWORKS, PLATAFORMS AND LIBRARIES:
+### IDEs  
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
 
-IDEs:
+## 📈 GitHub Stats  
+<div align="center">  
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" />  
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" />  
+</div>  
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+---
 
-OPERATING SYSTEM:
+## 📱 Conecte-se Comigo  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-12a152175/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheushnfarias@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheus_farias06/)  
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
 
-PLATAFORMAS DE ESTUDO:
-	![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-
- SOCIALS:
- 
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) matheushnfarias@gmail.com
- 
- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [matheus_farias06](https://www.instagram.com/matheus_farias06/)
- 
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/matheus-henrique-12a152175/
-
-
-# GitHub Stats
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="380px" />        ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+⭐ **Curiosidade:** Além de código, adoro estratégia militar e café bem forte! ☕  
