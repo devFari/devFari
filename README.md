@@ -58,8 +58,8 @@ Profissional de tecnologia com experiência multidisciplinar em suporte técnico
 
 ## 📈 GitHub Stats  
 <div align="center">  
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" />  
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" />  
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="50%" />  
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devFari&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" />  
 </div>  
 
 ---
