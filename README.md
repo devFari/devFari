@@ -111,4 +111,3 @@ Analista de TI com experiência multidisciplinar em suporte técnico, administra
 
 ⭐ **Curiosidade:** Além de código, adoro estratégia militar e café bem forte! ☕  
 
-![Snake animation](https://github.com/devFari/devFari/blob/output/github-contribution-grid-snake.svg)
