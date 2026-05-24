@@ -48,6 +48,9 @@ Analista de TI com experiência multidisciplinar em suporte técnico, administra
 ### Serviço de Streaming de Exames em Tempo Real
 📡 Sistema de transmissão em tempo real para exames de ressonância
 
+### Serviço de troca de mensagens (Desktop Nativo e adaptado a Mobile)
+📱 Sistema local para a troca de mensagens entre usuarios autorizados
+
 ---
 
 ## 📚 Educação & Certificações  
@@ -86,8 +89,8 @@ Analista de TI com experiência multidisciplinar em suporte técnico, administra
 ---
 
 ## 🎯 Metas Atuais
-- [ ] Conclusão do Programa ONE - Oracle Next Education
-- [ ] Certificação OCI da Oracle
+- [x] Conclusão do Programa ONE - Oracle Next Education
+- [x] Certificação OCI da Oracle
 - [ ] Desenvolvimento de mais projetos full stack
 - [ ] Crescimento do canal no YouTube com conteúdo para devs
 
